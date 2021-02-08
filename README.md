@@ -1,5 +1,6 @@
 # Tours-360-Startup-Site
-Tech used : HTML, CSS, JavaScript 
+Tech used : HTML, CSS, JavaScript
+** non bootsrap
 
 
 * responsive site 
